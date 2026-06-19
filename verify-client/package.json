@@ -1,0 +1,15 @@
+{
+  "name": "@veritas/verify-client",
+  "version": "0.1.0",
+  "description": "TypeScript verifier client for Veritas inference proofs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
